@@ -1,0 +1,5 @@
+docker/
+docker-compose.yml
+lunch_map/.env
+lunch_map/vendor
+composer.*
