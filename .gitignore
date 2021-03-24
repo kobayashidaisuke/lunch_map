@@ -3,3 +3,5 @@ docker-compose.yml
 lunch_map/.env
 lunch_map/vendor
 composer.*
+test_auth/
+vendor/
